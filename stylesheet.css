@@ -1,0 +1,78 @@
+@charset "utf-8";
+/* CSS Document */
+
+.jumbotron{ 
+	text-align:center;
+	color:white;
+	background-image:url(images/DSC_0209.JPG);
+	background-size: 100% auto;
+}
+
+.carousel-inner{
+	border:thick white 5px;
+	width:80%;
+	height:60%;
+	margin-left:10%;
+	padding:1%;
+}
+.item{
+	width:100%;
+	height:80%;
+}
+.navbar{
+padding:0%;
+margin:0%;
+}
+.row text-center img{
+	width: 10%;
+	position:relative;
+}
+.profilepic{
+	width:50%;
+	height:50%;
+	float:right;
+	
+}
+#about{
+	font-size:150%;
+}
+.index{
+	background-image:url(images/DSC_0209.JPG);
+	background-size: 100% auto;
+}
+.indexbody img{
+	width:304px;
+	height:174px;
+}
+.designwork img{
+	width:304px;
+	height:174px;
+}
+.design1 img{
+	width:304px;
+	height:174px;
+}
+.design2 img{
+	width:304px;
+	height:174px;
+}.design3 img{
+	width:304px;
+	height:174px;
+}
+.design4 img{
+	width:304px;
+	height:174px;
+}
+
+footer{
+	text-align:center;
+	background-color: #FBB4E2;
+	color:white;
+	font-family:Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;
+}
+body{
+		background-color: #FBB4E2;
+	color:white;
+	font-family:Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;
+	
+}
